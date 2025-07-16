@@ -29,6 +29,8 @@ PacePal is a lightweight and modern application designed to help runners track, 
 git clone https://github.com/your-username/PacePal.git
 cd PacePal
 
+
+
 Install Dependencies
 npm install
 
