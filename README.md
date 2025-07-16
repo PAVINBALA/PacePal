@@ -2,10 +2,6 @@
 
 PacePal is a lightweight and modern application designed to help runners track, calculate, and improve their running pace. It is built using modern frontend technologies with a clean user interface and responsive design.
 
-![PacePal Logo](generated-icon.png)
-
----
-
 ## ✨ Features
 
 - ⚡ Calculate your running pace based on distance and time
@@ -14,7 +10,6 @@ PacePal is a lightweight and modern application designed to help runners track, 
 - 📱 Fully responsive layout
 - 🔄 Live preview and editing experience (integrated with Replit)
 
----
 
 ## 🚀 Technologies Used
 
@@ -25,7 +20,6 @@ PacePal is a lightweight and modern application designed to help runners track, 
 - [Drizzle ORM](https://orm.drizzle.team/) – TypeScript ORM for structured database interaction
 - [Replit](https://replit.com/) – Cloud IDE for live development/testing
 
----
 
 ## 🛠️ Installation & Setup
 
