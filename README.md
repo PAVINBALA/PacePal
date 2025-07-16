@@ -21,10 +21,8 @@ PacePal is a lightweight and modern application designed to help runners track, 
 - [Replit](https://replit.com/) – Cloud IDE for live development/testing
 
 
-## 🛠️ Installation & Setup
+<img width="1366" height="768" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/4c9c45bd-47b7-495b-8133-58b5d67fbb1e" />
+<img width="1366" height="768" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/d89f8c44-8e24-46f7-9d0c-f6481a6b3715" />
+<img width="1366" height="768" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/91f97012-50f7-44e2-ae91-90952f23de9a" />
 
-1. **Clone the Repository**
 
-```bash
-git clone https://github.com/your-username/PacePal.git
-cd PacePal
